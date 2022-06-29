@@ -1,4 +1,9 @@
-txt = "Hello World"
-txt = txt.lower()
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
 
-print(txt)
+car.pop("model")
+
+print(car)
