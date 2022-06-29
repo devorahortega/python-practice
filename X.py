@@ -1,3 +1,8 @@
-age = 36
-txt = "My name is John, and I am {}"
-print(txt.format(age))
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+car.clear()
+
+print(car)
