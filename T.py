@@ -1,4 +1,6 @@
-x = 5
-y = 10
-
-print(x + y)
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+print(car.get("model"))
