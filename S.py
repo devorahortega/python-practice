@@ -1,4 +1,5 @@
-x = 5
-y = 10
-z = x + y
-print(z)
+fruits = {"apple", "banana", "cherry"}
+more_fruits = ["orange", "mango", "grapes"]
+fruits.update(more_fruits)
+
+print(fruits)
