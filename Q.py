@@ -1,7 +1,2 @@
-# commenting on multiple lines
-
-"""
-This is a comment
-written in 
-more that just one line
-"""
+fruits = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")
+print(fruits[2:5])
