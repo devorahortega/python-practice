@@ -1,2 +1,5 @@
-if 5 == 10 or 4 == 4:
-  print("At least one of the statements is true")
+a = 50
+b = 10
+if a != b:
+
+  print("Hello World")
