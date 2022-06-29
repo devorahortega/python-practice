@@ -1,4 +1,6 @@
-txt = "Hello World"
-x = txt[2:5]
-
-print(x)
+car =	{
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+car["year"] = 2020
