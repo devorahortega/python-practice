@@ -1,2 +1,8 @@
-fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(fruits[2:5])
+a = 50
+b = 10
+if a == b:
+  print("1")
+elif a > b:
+  print("2")
+else:
+  print("3")
