@@ -1,4 +1,6 @@
-x = 5
-y = 10
-z = x + y
-print(z)
+i = 1
+while i < 6:
+  print(i)
+  i += 1
+else:
+  print("i is no longer less than 6")
