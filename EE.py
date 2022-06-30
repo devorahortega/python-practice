@@ -1,4 +1,6 @@
-x = 5
-y = 10
-
-print(x + y)
+i = 0
+while i < 6:
+  i += 1
+  if i == 3:
+     continue
+  print(i)
