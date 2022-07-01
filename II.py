@@ -1,4 +1,2 @@
-txt = "Hello World"
-txt = txt.lower()
-
-print(txt)
+for x in range(6):
+  print(x)
