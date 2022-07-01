@@ -1,4 +1,3 @@
-txt = "Hello World"
-x = txt[2:5]
-
-print(x)
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x)
