@@ -1,3 +1,5 @@
-age = 36
-txt = "My name is John, and I am {}"
-print(txt.format(age))
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x == "banana":  
+    break
+  print(x)
