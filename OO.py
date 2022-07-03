@@ -1,2 +1,1 @@
-fruits = ("apple", "banana", "cherry")
-print(len(fruits))
+x = lambda a : a
