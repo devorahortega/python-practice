@@ -1,2 +1,2 @@
-fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-print(fruits[2:5])
+def my_function(*kids):
+  print("The youngest child is " + kids[2])
