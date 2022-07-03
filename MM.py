@@ -1,4 +1,3 @@
-fruits = ["apple", "banana", "cherry"]
-fruits.append("orange")
+def my_function(x):
+  return x + 5
 
-print(fruits)
