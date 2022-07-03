@@ -1,3 +1,4 @@
-fruits = {"apple", "banana", "cherry"}
-if "apple" in fruits:
-  print("Yes, apple is a fruit!")
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
