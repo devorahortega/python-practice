@@ -1,5 +1,3 @@
-fruits = {"apple", "banana", "cherry"}
-more_fruits = ["orange", "mango", "grapes"]
-fruits.update(more_fruits)
+class Student(Person):
 
-print(fruits)
+#creating a class
